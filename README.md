@@ -13,13 +13,12 @@ This project demonstrates how AI can recognize handwritten digits, which is usef
 
 ## 🎯 Objective
 - Use CNNs to classify handwritten digits from the MNIST dataset.  
-- Train, validate, and test the model for high accuracy.  
-- (Optional) Build a simple UI to draw digits and predict them.  
+- Train, validate, and test the model for high accuracy.   
 
 ---
 
 ## 📂 Dataset
-We use the **MNIST dataset** (70,000 grayscale images of digits, 28x28 pixels each).  
+**MNIST dataset** (70,000 grayscale images of digits, 28x28 pixels each).  
 
 - 60,000 training images  
 - 10,000 test images  
